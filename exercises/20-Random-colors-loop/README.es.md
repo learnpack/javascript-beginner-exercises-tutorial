@@ -18,7 +18,7 @@ Escenario: Digamos que somos profesor en un aula de 10 estudiantes y quieres asi
 
 - Cada vez que hagas un loop, genera un número aleatorio entre 1-4 usando la función **Math.random()** y **Math.random** que vimos en los últimos ejercicios.
 
-- Dentro del bucle, llama a la función **getColor()** en para pasarle los números generados aleatoriamente(como arrgunemnto) para obtener y devolver un color.
+- Dentro del bucle, llama a la función **getColor()** en para pasarle los números generados aleatoriamente(como argumento) para obtener y devolver un color.
 
 - Imprime el color en la consola.
 
